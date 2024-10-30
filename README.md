@@ -20,6 +20,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+The waterfall model is sequantial approach with distinct phases for example requirements ,design , implementation flowing downwards like a waterfall whereas the Agile methodology is an Iterative and incremental approach focused on flexibility , collaboration, and responding to change the Agile approach is suitable when working on large projects and many companies prefer this model because of its flexibility and able th repond to change fast, while the waterfall approach can be suitable for small and precise projects
 
 
 
@@ -41,6 +42,12 @@ Technical debt which is accrued from shortcuts or suboptimal solutions can be pr
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+unit testing includes testing individual components or modules of software
+Intergration testing involves testing interactions between different components or subsystems 
+System testing covers testing the entire system as a whole
+Acceptance testing includes testing the software against user requirements to ensure it meets user needs 
+the importance of quality control helps to fix errors ,and detect mistakes early during the development process lesding to the prooducing of higher quality products .
+
 
 
 
@@ -48,6 +55,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+prompt engineering is the crafting of questions or statements to get the best possible answer or responses from AI models 
+prompt engineering helps to make my questions clear, specific and concise so that the AI model completely understands what i need
 
+Provide an example of a vague
+prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+'Tell me about Hiroshima' here the AI model would just give me a general answer
+but if I ask precisely 'Tell me the events that led to Hiroshima' then the AI will give me a clear answer .
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
