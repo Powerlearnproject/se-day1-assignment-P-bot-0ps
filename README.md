@@ -16,22 +16,32 @@ List and briefly explain the phases of the Software Development Life Cycle.
  Implementation which is writing code and buiding the software according to the design specifications
  Testing that includes conducting various tests to ensure the software meets quality standards and functional requirements 
  Deployment that is releasing the software to the users
- Maintenance which ivolves providing ongoing support , updates and enhancement to the software after release.
+ Maintenance which involves providing ongoing support , updates and enhancement to the software after release.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+a software developer writes code and implements software
+a quality assurance engineer ensures software quality by designing and executing test plans
+a project manager oversees the planning , execution and delivery of software projects
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated development environments are soft ware suits that provide comprehensive tools for writing ,debugging, and testing code for example visual studio code and eclipse
+Version control systems are software tools used to track changes to to source code and coordinating work among team members
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+changing requirements which can change during the development cycle which can lead to delays in a project this can be prevented by seeting up a clear mockup design of the full project
+and effective communication
+Tight deadline that is pressure to deliver software products on time can result in rushed development and compromised quality of products, this can be avoided by regular reassessment of project goals and timelines 
+Technical debt which is accrued from shortcuts or suboptimal solutions can be prevented by effective communication using viable methodologies like the Agile methodology
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
